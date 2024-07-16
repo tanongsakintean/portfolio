@@ -20,13 +20,26 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import springboot from "./tech/springboot.svg";
+import kotlin from "./tech/kotlin.svg";
+import nextjs from "./tech/nextjs.svg";
+import postgres from "./tech/postgres.svg";
+import redis from "./tech/redis.svg";
+import graphql from "./tech/graphql.svg";
+import php from "./tech/php.svg";
+import python from "./tech/python.svg";
+import cpp from "./tech/cpp.svg";
+import java from "./tech/java.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import insync from "./company/insync.png";
+import protoss from "./company/protoss.png";
 
 import carrent from "./carrent.png";
+import cloneNetflix from "./clone-netflix.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -59,4 +72,17 @@ export {
   carrent,
   jobit,
   tripguide,
+  springboot,
+  kotlin,
+  nextjs,
+  postgres,
+  redis,
+  graphql,
+  php,
+  python,
+  cpp,
+  java,
+  insync,
+  protoss,
+  cloneNetflix,
 };
