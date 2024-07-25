@@ -163,10 +163,8 @@ const experiences = [
     iconBg: "#f1f1f1",
     date: "April 2023 - June 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Mobile Developer (React Native)",
+      "Web Developer (Next.js, ExtJs)",
     ],
   },
   {
@@ -176,10 +174,9 @@ const experiences = [
     iconBg: "#f1f1f1",
     date: "April 2024 - June 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Backend Developer (Springboot, Kotlin)",
+      "Web Developer (ReactJs, NextJs)",
+      "Blockchain (Solidity)",
     ],
   },
 ];

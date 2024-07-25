@@ -49,14 +49,16 @@ const About = () => {
       >
         <motion.p
           variants={fadeIn("", "", 0.1, 1)}
-          className="mt-4 text-secondary text-[17px] max-w-4xl leading-[30px]"
+          className="mt-4 text-secondary text-[17px] max-w-4xl "
         >
-          I'm studying at king mongkut's university of technology north bangkok
+          i' m studying at King Mongkut's University of Technology in North
+          Bangkok. Prachin Buri Campus.
         </motion.p>
-        i'm in degree 4. in my spare time, I like to learn new knowledge, new
-        programming frameworks, I'm looking for a new experience working Intern
-        as a Backend developer and various challenges to increase my knowledge
-        well as to enhance my knowledge
+        i' m looking for a new experience working as software developer and have
+        an understanding of web development with Spring Boot, Kotlin, and
+        Postgresql through MVC and OOP architecture. Understand the basics of
+        deployment through Docker and be able to work as a team through Git
+        workflow.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
