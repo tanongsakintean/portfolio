@@ -30,6 +30,9 @@ import php from "./tech/php.svg";
 import python from "./tech/python.svg";
 import cpp from "./tech/cpp.svg";
 import java from "./tech/java.svg";
+import nestjs from "./tech/nestjs.png";
+import vitejs from "./tech/vitejs.png";
+import minio from "./tech/minio.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -37,6 +40,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import insync from "./company/insync.png";
 import protoss from "./company/protoss.png";
+import wd from "./company/wd.png";
 
 import carrent from "./carrent.png";
 import cloneNetflix from "./clone-netflix.png";
@@ -85,4 +89,8 @@ export {
   insync,
   protoss,
   cloneNetflix,
+  wd,
+  nestjs,
+  vitejs,
+  minio,
 };

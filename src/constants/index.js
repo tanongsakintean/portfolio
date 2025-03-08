@@ -36,6 +36,10 @@ import {
   insync,
   protoss,
   cloneNetflix,
+  wd,
+  nestjs,
+  vitejs,
+  minio,
 } from "../assets";
 
 export const navLinks = [
@@ -153,6 +157,18 @@ const technologies = [
     name: "Docker",
     icon: docker,
   },
+  {
+    name: "Nest JS",
+    icon: nestjs,
+  },
+  {
+    name: "Vite JS",
+    icon: vitejs,
+  },
+  {
+    name: "Minio",
+    icon: minio,
+  },
 ];
 
 const experiences = [
@@ -179,9 +195,23 @@ const experiences = [
       "Blockchain (Solidity)",
     ],
   },
+  {
+    title: "Internship",
+    company_name: "Western Digital",
+    icon: wd,
+    iconBg: "#f1f1f1",
+    date: "November 2024 - February 2025",
+    points: [
+      "Backend Developer (Nest Js)",
+      "Web Developer (Vite Js)",
+      "Database (Postgresql)",
+      "Authentication (Keycloak)",
+      "Object Storage (Minio)",
+    ],
+  },
 ];
 
-const testimonials = [
+let testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
